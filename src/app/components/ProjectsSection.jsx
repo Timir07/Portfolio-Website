@@ -8,7 +8,7 @@ const projectsData = [
     {
         id: 1,
         title: "Disney Clone Website",
-        description: "Project 1",
+        description: "Designed a clone of Disney + Hotstar website using ReactJs and Firebase for authentication and database",
         image: "/images/projects/p1.png",
         tag: ["All","Web"],
         gitUrl: "https://github.com/Timir07/Disney-Clone",
@@ -17,7 +17,7 @@ const projectsData = [
     {
         id: 2,
         title: "Video Mania Website",
-        description: "Project 1",
+        description: "Shaped a video watching website using ReactJs along with Chakra Ui library",
         image: "/images/projects/p2.png",
         tag: ["All","Web"],
         gitUrl: "https://github.com/Timir07/Video-Mania",
@@ -26,7 +26,7 @@ const projectsData = [
     {
         id: 3,
         title: "Service Website",
-        description: "Project 1",
+        description: "Created Service provider demo website using Reactjs",
         image: "/images/projects/p3.png",
         tag: ["All","Web"],
         gitUrl: "https://github.com/Timir07/React-one",
@@ -35,7 +35,7 @@ const projectsData = [
     {
         id: 4,
         title: "Todo-List Application",
-        description: "Project 1",
+        description: "Designed a Todo-application using MERN Stack technology",
         image: "/images/projects/p4.png",
         tag: ["All","Web"],
         gitUrl: "https://github.com/Timir07/TodoList",
@@ -44,7 +44,7 @@ const projectsData = [
     {
         id: 5,
         title: "Blog Website",
-        description: "Project 1",
+        description: "Created a Website using Frontend Technology along with Nodejs, Express stack and SQL database so that you can create a blog to share your story with world",
         image: "/images/projects/p5.png",
         tag: ["All","Web"],
         gitUrl: "https://github.com/Timir07/Blog-Website",
@@ -53,7 +53,7 @@ const projectsData = [
     {
         id: 6,
         title: "Drum Kit",
-        description: "Project 1",
+        description: "Designed a fun KeyBoard Drum Website Using HTML, CSS and JavaScript which Turns keyboard keys to drum sounds",
         image: "/images/projects/p6.png",
         tag: ["All","Web"],
         gitUrl: "https://github.com/Timir07/Drumkit",
@@ -62,7 +62,7 @@ const projectsData = [
     {
         id: 7,
         title: "Daily Goals",
-        description: "Project 1",
+        description: "Developed a Daily Goals Website which uses the local storage of browser",
         image: "/images/projects/p7.png",
         tag: ["All","Web"],
         gitUrl: "https://github.com/Timir07/Daily-Goals",
@@ -71,7 +71,7 @@ const projectsData = [
     {
         id: 8,
         title: "Brain Tumor Segmentation with U-NET",
-        description: "Project 1",
+        description: "U-Net involves using a convolutional neural network architecture to identify and delineate tumor regions within medical brain images",
         image: "/images/projects/p8.png",
         tag: ["All","AI"],
         gitUrl: "https://colab.research.google.com/drive/1uSZMwjPAFhr7g3TQc15iRPPRoyjhDsn3?usp=sharing",
@@ -80,7 +80,7 @@ const projectsData = [
     {
         id: 9,
         title: "Youtube Comment Sentiment Analysis",
-        description: "Project 1",
+        description: "Currently learning and discovering NLP models like bert, gpt, vader to analysis the polarity of sentiments on youtube comments in a team of four members",
         image: "/images/projects/p9.png",
         tag: ["All","AI"],
         gitUrl: "https://colab.research.google.com/drive/1E0tgqzNu2O6iBxSM5WGxB3UsuoGkcQqp?usp=sharing",

@@ -34,14 +34,24 @@ const HeroSection = () => {
                         />
                 </h1>
                 <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                    Doloremque, ipsam vero sunt repudiandae a impedit quidem
+                    I enjoy crafting websites and engaging in AI projects, merging my passion for both domains.
+                    I am a quick learner, always eager to absorb new knowledge and skills.
                 </p>
                 <div>
-                    <button className="px-6 py-3 w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 text-white hover:bg-slate-200">Hire Me</button>
-                    <button className="px-1 py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 text-white mt-3">
-                        <span className="block bg-[#121212] rounded-full px-5 py-2 hover:bg-slate-800">Download CV</span>
-                    </button>
+                    <Link 
+                        href="/#contact"
+                        className="px-6 py-3 inline-block w-full sm:w-fit rounded-full mr-4 bg-gradient-to-br from-blue-500 via-purple-500 to-pink-500 text-white hover:bg-slate-200"
+                    >
+                        Hire Me !
+                    </Link>
+                    <Link
+                        href="https://drive.google.com/file/d/1B8s4O11LI4iqSV2nQ7MhaHq4WP6aPP_X/view?usp=sharing"
+                        className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-purple-500 to-pink-500 hover:bg-slate-800 text-white mt-3"
+                    >
+                        <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
+                            Download CV
+                        </span>
+                    </Link>
                 </div>
             </motion.div>
             <motion.div 
