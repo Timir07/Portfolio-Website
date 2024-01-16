@@ -42,8 +42,12 @@ const TAB_DATA = [
         id: "certifications",
         content: (
             <ul className="list-disc pl-2">
-                <li><Link className="text-[#ADB7BE] hover:text-white hover:border-b" href={"https://www.coursera.org/account/accomplishments/certificate/KS6F7JCWFVJE"}>React Basics</Link></li>
-                <li><Link className="text-[#ADB7BE] hover:text-white hover:border-b" href={"https://drive.google.com/file/d/1iva-_ennik_C09X5PUL_Zt_5YKfplvFn/view?usp=drive_link"}>Artificial Intelligence Intern</Link></li>
+                <li><Link target="_blank"
+                    rel="noopener noreferrer" 
+                    className="text-[#ADB7BE] hover:text-white hover:border-b" href={"https://www.coursera.org/account/accomplishments/certificate/KS6F7JCWFVJE"}>React Basics</Link></li>
+                <li><Link target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-[#ADB7BE] hover:text-white hover:border-b" href={"https://drive.google.com/file/d/1iva-_ennik_C09X5PUL_Zt_5YKfplvFn/view?usp=drive_link"}>Artificial Intelligence Intern</Link></li>
             </ul>
         )
     }
