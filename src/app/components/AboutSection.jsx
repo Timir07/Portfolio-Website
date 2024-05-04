@@ -29,7 +29,7 @@ const TAB_DATA = [
         id: "education",
         content: (
             <ul className="list-disc pl-2">
-                <li>UIET Panjab University Chandigarh -<div className="text-[#ADB7BE]">BE, Information Technology (2021-2025) <br />8.72 CGPA</div></li>
+                <li>UIET Panjab University Chandigarh -<div className="text-[#ADB7BE]">BE, Information Technology (2021-2025) <br />8.73 CGPA</div></li>
                 <br />
                 <li>Government Model Senior Secondary School Chandigarh -<div className="text-[#ADB7BE]">12th CBSE, Non-Medical (2021) <br />96.2%</div></li>
                 <br />
